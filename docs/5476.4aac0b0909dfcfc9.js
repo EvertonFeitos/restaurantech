@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[5476],{5476:e=>{e.exports=JSON.parse('{"name":"restaurantech","version":"1.1.0"}')}}]);
